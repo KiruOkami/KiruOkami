@@ -1,8 +1,8 @@
 Hi there 👋
 Some info about me:
--Gamer
--IT Student: Specializing in Enterprise Data Management
--More of a creative
+-Gamer <br>
+-IT Student: Specializing in Enterprise Data Management <br>
+-More of a creative <br>
 
 <!--
 **KiruOkami/KiruOkami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
