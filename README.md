@@ -1,5 +1,6 @@
-Hi there 👋
-Some info about me:
+Hi there 👋<br>
+<br>
+Some info about me: <br>
 -Gamer <br>
 -IT Student: Specializing in Enterprise Data Management <br>
 -More of a creative <br>
